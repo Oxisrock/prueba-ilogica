@@ -1,0 +1,18 @@
+/*
+Theme Name: MS THEME
+Template Theme URI:
+Author: Francisco Aular
+Description: Theme wordpress practice
+Version: 1.0
+*/
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
+
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+
+@import url('assets/css/slick.css');
+
+@import url('assets/css/slick-theme.css');
+
+@import url('assets/css/my-custom-style.css');
+
+@import url('assets/css/responsive.css');
